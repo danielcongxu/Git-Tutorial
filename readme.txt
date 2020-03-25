@@ -30,3 +30,4 @@ changes from test
 Local changes
 remote changes
 remote changes 2
+this is a change from local branch
