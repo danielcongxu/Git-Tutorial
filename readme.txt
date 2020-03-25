@@ -29,3 +29,4 @@ changes from test
 <<<<<<< HEAD
 Local changes
 remote changes
+remote changes 2
